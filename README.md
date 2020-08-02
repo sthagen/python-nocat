@@ -14,7 +14,7 @@ If such an install is not present, a minimal history functionality is offered bu
 
 ## Install
 
-Not yet on the cheese shop, but when this is done, a simple `pip install nocat` should be sufficient.
+Not yet on the cheese shop, but when this is done, a simple `pipx install nocat` or `python -m pip install nocat` should be sufficient.
 
 ## Development
 
