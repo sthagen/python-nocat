@@ -37,4 +37,4 @@ Presumably `tox` will be used to ensure regression tests on all relevant platfor
 
 Enjoy!
 
-Note: The default branch is `default` :wink:
+**Note**: The name of the default branch is `default`.
