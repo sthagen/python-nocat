@@ -12,6 +12,9 @@ In case a working `readline` module is detected upon start, the usual UNIX comma
 
 If such an install is not present, a minimal history functionality is offered but otherwise no interactive fun aspect ...
 
+## Status
+Experimental
+
 ## Install
 
 Not yet on the cheese shop, but when this is done, a simple `pipx install nocat` or `python -m pip install nocat` should be sufficient.
